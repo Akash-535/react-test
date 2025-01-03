@@ -32,7 +32,7 @@ const OtherTask = () => {
   return (
     <>
     {/* Table Print */}
-    <div className='flex items-center justify-center flex-col'>
+    <div className='flex items-center justify-center flex-col pt-20'>
     <h2 className='text-center text-2xl font-bold pb-5'>Print table of 2</h2>
     <p className='text-xl'>{TABLE}</p>
   </div>
